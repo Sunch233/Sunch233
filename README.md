@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/Scaxe-No1-brightgreen)
 ![](https://img.shields.io/badge/PHP-8.1-brightgreen)
 
-![状态总览](https://github-readme-stats.vercel.app/api?username=Sunch233&show_icons=true&theme=transparent)
+![状态总览](https://github-readme-stats.vercel.app/api?username=Sunch233&show_icons=true&theme=holi&locale=cn)
 
 -访问数量
 ![Visitor Count](https://profile-counter.glitch.me/Sunch233/count.svg)
